@@ -1,0 +1,11 @@
+Testcase: edu.umb.cs680.hw04.PrimeGeneratorTest
+Test: generatePrimesWithNegative10Land10LRunTimeException() took 48 milli sec(s)
+Test: primeGenerateConstructorWith1Land100L() took 1 milli sec(s)
+Test: generatePrimesWith1Land100L() took 3 milli sec(s)
+Test: generatePrimesWith100Land1LRunTimeException() took 0 milli sec(s)
+Test: primeGenerateConstructorWith1Land10L() took 0 milli sec(s)
+Test: primeGenerateConstructorWith10LandNegative10LRunTimeException() took 0 milli sec(s)
+Test: primeGenerateConstructorWithNegative10Land10LRunTimeException() took 1 milli sec(s)
+Test: primeGenerateConstructorWith100Land1LRunTimeException() took 1 milli sec(s)
+Test: generatePrimesWith1Land10L() took 0 milli sec(s)
+Tests run: 9, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 74 milli sec(s)
